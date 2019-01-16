@@ -11,3 +11,5 @@ $ make serve
 ```
 
 This will build the project and will serve it on localhost.
+
+Source and inspiration https://github.com/filiph/filiphnet
