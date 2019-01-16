@@ -1,8 +1,8 @@
-# filiph.net 
+# somebody.net 
 
-[![Build Status](https://travis-ci.org/filiph/filiphnet.svg?branch=master)](https://travis-ci.org/filiph/filiphnet)
 
-Code for Filip Hracek's personal homepage.
+
+Code for somebody's personal homepage.
 
 Use `make` to build and deploy this. For example:
 
